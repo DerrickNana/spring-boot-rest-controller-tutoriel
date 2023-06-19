@@ -18,7 +18,7 @@ public class CarServiceImpl implements CarService{
 
     private List<Car> cars = new ArrayList<>(
             Arrays.asList(
-                    new Car(1L,"Astra", "Opel", 100,18000d),
+                    new Car(1L,"Astra", "NANA Opel", 100,18000d),
                     new Car(2L,"Insignia", "Opel", 120,22000d),
                     new Car(3L,"Golf", "VW", 90,17000d)
             )
